@@ -1,0 +1,9 @@
+name: rice-env
+
+channels:
+  - conda-forge
+
+dependencies:
+  - matplotlib
+  - numpy
+  - python=3.7
